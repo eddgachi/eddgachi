@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I'm Edd – a passionate Senior Software Engineer who loves building clean, scalable projects by day and exploring new programming horizons by night. I specialize in developing robust solutions using Python (FastAPI, Django) and Vue.js. Currently, I’m diving into the worlds of Go, Rust, C, C++, Machine Learning, and Deep Learning to broaden my skills and reignite the pure joy of programming.
+I'm Edd – a passionate Senior Software Engineer who loves building clean, scalable projects by day and exploring new programming horizons by night. I specialize in developing robust solutions using Kotlin, Python (FastAPI, Django) and Vue.js. Currently, I’m diving into the worlds of Go, Rust, C, C++, Machine Learning, and Deep Learning to broaden my skills and reignite the pure joy of programming.
 
 ## 💻 Tech Stack
 
