@@ -29,17 +29,15 @@ I'm Edd – a passionate Senior Software Engineer who loves building clean, scal
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 | Stats | Streak |
 |------|------|
 | ![](https://github-readme-stats.vercel.app/api?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=eddgachi&theme=dark&hide_border=false) |
 
-| Top Languages |
-|--------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| Top Languages |  Profile Summary Cards |
+|--------------|------------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddgachi&theme=github_dark) |
 
-[![](https://visitcount.itsvg.in/api?id=eddgachi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
