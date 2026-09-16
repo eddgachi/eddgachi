@@ -33,11 +33,11 @@ I'm Edd – a passionate Senior Software Engineer who loves building clean, scal
 
 | Stats | Streak |
 |------|------|
-| ![](https://github-readme-stats.vercel.app/api?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=eddgachi&theme=dark&hide_border=false) |
+| ![](https://github-stats-extended.vercel.app/api?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=eddgachi&theme=dark&hide_border=false) |
 
 | Top Languages |  Profile Summary |
 |--------------|------------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddgachi&theme=github_dark) |
+| ![](https://github-stats-extended.vercel.app/api/top-langs/?username=eddgachi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddgachi&theme=github_dark) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
